@@ -1,0 +1,12 @@
+"metric","value"
+"n_primary",63
+"n_exclusion",60
+"archive_max_abs_rr_difference",4.68355500841677e-05
+"positive_exposure_p95",38.6711625000001
+"positive_exposure_p99",72.06
+"pearson_log_rr_within_p95",0.990319497864038
+"max_abs_log_rr_difference_within_p95",0.0111192111635642
+"rmse_log_rr_difference_within_p95",0.00713000092019901
+"pearson_log_rr_within_p99",0.997979797429839
+"max_abs_log_rr_difference_within_p99",0.0266725842919373
+"rmse_log_rr_difference_within_p99",0.0125638068634055

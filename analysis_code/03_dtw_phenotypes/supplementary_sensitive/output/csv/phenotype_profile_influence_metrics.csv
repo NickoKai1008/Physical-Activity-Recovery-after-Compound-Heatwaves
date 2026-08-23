@@ -1,0 +1,5 @@
+cluster,n_primary,n_exclusion,pearson_r,max_abs_standardized_difference,rmse_standardized_difference
+1,18,18,1.0,0.0,0.0
+2,14,14,1.0,0.0,0.0
+3,11,11,1.0,0.0,0.0
+4,20,17,0.9619402978181367,0.2446629635786336,0.10706932947487362
