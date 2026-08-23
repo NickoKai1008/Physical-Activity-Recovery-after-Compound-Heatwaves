@@ -28,7 +28,7 @@ model_root <- Sys.getenv(
 assignment_file <- Sys.getenv(
   "FIG4_ASSIGNMENT_FILE",
   unset = file.path(
-    repo_root, "analysis", "03_dtw_phenotypes", "data", "results",
+    repo_root, "analysis_code", "03_dtw_phenotypes", "data", "results",
     "city_cluster_optimized_12d_ward_k4.csv"
   )
 )
