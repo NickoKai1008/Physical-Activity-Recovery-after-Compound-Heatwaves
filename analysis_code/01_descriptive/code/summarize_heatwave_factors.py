@@ -1,19 +1,16 @@
 """Calculate supplementary heatwave factors from the output of main code 1.
 
-This second-stage script reads the mutually exclusive DHW, NHW and CHW daily
+This second-stage script does not recalculate temperature thresholds or re-identify heatwaves. It reads the mutually exclusive DHW, NHW and CHW daily
 indicators produced by main code 1 and calculates:
 
-1. daily exceeded quantity (EQ), event-day number, total event duration and
-   cumulative excess heatwave index (CEHWI);
+1. daily exceeded quantity (EQ), event-day number, total event duration and cumulative excess heatwave index (CEHWI);
 2. an event-level table containing event timing, duration and intensity; and
-3. an annual table containing event frequency, heatwave days, mean/maximum
-   duration and annual intensity statistics.
+3. an annual table containing event frequency, heatwave days, mean/maximum duration and annual intensity statistics.
 
 
-The annual event count assigns an event to the year in which it starts. Annual
-heatwave days and daily intensity statistics are calculated by calendar year.
-Consequently, an event spanning 31 December is counted once but contributes
-daily observations to both calendar years.
+The annual event count assigns an event to the year in which it starts. Annual heatwave days and daily intensity statistics are calculated by calendar year.
+Consequently, an event spanning 31 December is counted once but contributes daily observations to both calendar years.
+
 """
 
 from __future__ import annotations
@@ -202,7 +199,7 @@ def _event_metadata(
 
 
 def calculate_daily_factors(data: pd.DataFrame) -> pd.DataFrame:
-    """Calculate EQ, CEHWI and event metadata from classified heatwave days."""
+    """Calculate EQ, CEHWI and event metadata without redefining heatwaves."""
     result = data.copy()
 
     # Recalculate EQ from the final mutually exclusive heatwave classification.
@@ -227,8 +224,7 @@ def calculate_daily_factors(data: pd.DataFrame) -> pd.DataFrame:
         0.0,
     )
 
-    # Negative EQ on an identified event day indicates inconsistent upstream
-    # temperatures, thresholds or event flags and should not be silently clipped.
+
     for event_type in EVENT_TYPES:
         eq_column = f"EQ_{event_type}_C"
         invalid = result[event_type].eq(1) & result[eq_column].lt(-1e-10)
@@ -240,7 +236,7 @@ def calculate_daily_factors(data: pd.DataFrame) -> pd.DataFrame:
             )
 
     # Build events from the final mutually exclusive types. CHW is retained even
-    # when its overlap lasts for only one day; no duration filter is applied here.
+
     for event_type in EVENT_TYPES:
         event_id, event_day, duration = _event_metadata(result[event_type])
         event_id_column = f"{event_type}_event_id"
