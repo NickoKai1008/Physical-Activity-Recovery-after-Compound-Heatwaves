@@ -1,0 +1,76 @@
+City,Group,Strong days,Overall days,Duration band,Group median strong,Group mean strong,Group median overall,Group mean overall
+Abilene,2,12,12,Persistent through 12d,12.0,12.0,12.0,12.0
+Amarillo,4,12,12,Persistent through 12d,12.0,12.0,12.0,12.0
+Arlington,1,12,12,Persistent through 12d,12.0,12.0,12.0,12.0
+Atlanta,3,6,8,Attenuates ~6d strong / ~8d overall,6.0,6.0,8.0,8.0
+Aurora,5,0,0,No composite heatwave,0.0,0.0,0.0,0.0
+Austin,2,12,12,Persistent through 12d,12.0,12.0,12.0,12.0
+Bakersfield,1,12,12,Persistent through 12d,12.0,12.0,12.0,12.0
+Baltimore,1,12,12,Persistent through 12d,12.0,12.0,12.0,12.0
+Boston,2,12,12,Persistent through 12d,12.0,12.0,12.0,12.0
+Cape Coral,4,12,12,Persistent through 12d,12.0,12.0,12.0,12.0
+Chandler,1,12,12,Persistent through 12d,12.0,12.0,12.0,12.0
+Charleston,3,6,8,Attenuates ~6d strong / ~8d overall,6.0,6.0,8.0,8.0
+Charlotte,4,12,12,Persistent through 12d,12.0,12.0,12.0,12.0
+Chicago,4,12,12,Persistent through 12d,12.0,12.0,12.0,12.0
+Cincinnati,4,12,12,Persistent through 12d,12.0,12.0,12.0,12.0
+Clearwater,4,12,12,Persistent through 12d,12.0,12.0,12.0,12.0
+Cleveland,3,6,8,Attenuates ~6d strong / ~8d overall,6.0,6.0,8.0,8.0
+Columbia,3,6,8,Attenuates ~6d strong / ~8d overall,6.0,6.0,8.0,8.0
+Columbus,2,12,12,Persistent through 12d,12.0,12.0,12.0,12.0
+Corpus Christi,1,12,12,Persistent through 12d,12.0,12.0,12.0,12.0
+Dallas,1,12,12,Persistent through 12d,12.0,12.0,12.0,12.0
+Denver,5,0,0,No composite heatwave,0.0,0.0,0.0,0.0
+Detroit,1,12,12,Persistent through 12d,12.0,12.0,12.0,12.0
+Fort Worth,1,12,12,Persistent through 12d,12.0,12.0,12.0,12.0
+Fresno,1,12,12,Persistent through 12d,12.0,12.0,12.0,12.0
+Gilbert,4,12,12,Persistent through 12d,12.0,12.0,12.0,12.0
+Henderson,2,12,12,Persistent through 12d,12.0,12.0,12.0,12.0
+Hollywood,5,0,0,No composite heatwave,0.0,0.0,0.0,0.0
+Houston,1,12,12,Persistent through 12d,12.0,12.0,12.0,12.0
+Indianapolis,4,12,12,Persistent through 12d,12.0,12.0,12.0,12.0
+Jacksonville,4,12,12,Persistent through 12d,12.0,12.0,12.0,12.0
+Kansas City,3,6,8,Attenuates ~6d strong / ~8d overall,6.0,6.0,8.0,8.0
+Las Vegas,4,12,12,Persistent through 12d,12.0,12.0,12.0,12.0
+Long Beach,5,0,0,No composite heatwave,0.0,0.0,0.0,0.0
+Los Angeles,2,12,12,Persistent through 12d,12.0,12.0,12.0,12.0
+Louisville,4,12,12,Persistent through 12d,12.0,12.0,12.0,12.0
+Lubbock,4,12,12,Persistent through 12d,12.0,12.0,12.0,12.0
+Mesa,1,12,12,Persistent through 12d,12.0,12.0,12.0,12.0
+Miami,1,12,12,Persistent through 12d,12.0,12.0,12.0,12.0
+Milwaukee,4,12,12,Persistent through 12d,12.0,12.0,12.0,12.0
+Minneapolis,2,12,12,Persistent through 12d,12.0,12.0,12.0,12.0
+Miramar,4,12,12,Persistent through 12d,12.0,12.0,12.0,12.0
+Nashville,4,12,12,Persistent through 12d,12.0,12.0,12.0,12.0
+New York,1,12,12,Persistent through 12d,12.0,12.0,12.0,12.0
+Newark,2,12,12,Persistent through 12d,12.0,12.0,12.0,12.0
+Oakland,5,0,0,No composite heatwave,0.0,0.0,0.0,0.0
+Oklahoma City,1,12,12,Persistent through 12d,12.0,12.0,12.0,12.0
+Orlando,3,6,8,Attenuates ~6d strong / ~8d overall,6.0,6.0,8.0,8.0
+Overland Park,3,6,8,Attenuates ~6d strong / ~8d overall,6.0,6.0,8.0,8.0
+Palm Bay,4,12,12,Persistent through 12d,12.0,12.0,12.0,12.0
+Philadelphia,2,12,12,Persistent through 12d,12.0,12.0,12.0,12.0
+Phoenix,1,12,12,Persistent through 12d,12.0,12.0,12.0,12.0
+Pittsburgh,5,0,0,No composite heatwave,0.0,0.0,0.0,0.0
+Portland,5,0,0,No composite heatwave,0.0,0.0,0.0,0.0
+Raleigh,3,6,8,Attenuates ~6d strong / ~8d overall,6.0,6.0,8.0,8.0
+Richmond,4,12,12,Persistent through 12d,12.0,12.0,12.0,12.0
+Riverside,4,12,12,Persistent through 12d,12.0,12.0,12.0,12.0
+Sacramento,2,12,12,Persistent through 12d,12.0,12.0,12.0,12.0
+Salt Lake City,5,0,0,No composite heatwave,0.0,0.0,0.0,0.0
+San Antonio,2,12,12,Persistent through 12d,12.0,12.0,12.0,12.0
+San Bernardino,2,12,12,Persistent through 12d,12.0,12.0,12.0,12.0
+San Diego,5,0,0,No composite heatwave,0.0,0.0,0.0,0.0
+San Francisco,5,0,0,No composite heatwave,0.0,0.0,0.0,0.0
+San Jose,2,12,12,Persistent through 12d,12.0,12.0,12.0,12.0
+Santa Ana,5,0,0,No composite heatwave,0.0,0.0,0.0,0.0
+Scottsdale,4,12,12,Persistent through 12d,12.0,12.0,12.0,12.0
+Seattle,5,0,0,No composite heatwave,0.0,0.0,0.0,0.0
+St. Louis,3,6,8,Attenuates ~6d strong / ~8d overall,6.0,6.0,8.0,8.0
+St. Petersburg,3,6,8,Attenuates ~6d strong / ~8d overall,6.0,6.0,8.0,8.0
+Tallahassee,4,12,12,Persistent through 12d,12.0,12.0,12.0,12.0
+Tampa,3,6,8,Attenuates ~6d strong / ~8d overall,6.0,6.0,8.0,8.0
+Tucson,1,12,12,Persistent through 12d,12.0,12.0,12.0,12.0
+Virginia Beach,1,12,12,Persistent through 12d,12.0,12.0,12.0,12.0
+Visalia,1,12,12,Persistent through 12d,12.0,12.0,12.0,12.0
+Washington,2,12,12,Persistent through 12d,12.0,12.0,12.0,12.0

@@ -1,0 +1,76 @@
+city,cluster,is_outlier,group,latitude,longitude,has_ppml_estimate
+Abilene,2,0,C2,32.449,-99.733,1
+Amarillo,4,0,C4,35.222,-101.831,1
+Arlington,1,0,C1,32.736,-97.108,1
+Atlanta,3,0,C3,33.749,-84.388,1
+Aurora,5,0,No composite heatwave,39.729,-104.832,0
+Austin,2,0,C2,30.267,-97.743,1
+Bakersfield,1,0,C1,35.373,-119.019,1
+Baltimore,1,0,C1,39.29,-76.612,1
+Boston,2,0,C2,42.361,-71.058,1
+Cape Coral,4,0,C4,26.563,-81.949,1
+Chandler,1,0,C1,33.306,-111.841,1
+Charleston,3,0,C3,32.777,-79.931,1
+Charlotte,4,0,C4,35.227,-80.843,1
+Chicago,4,0,C4,41.878,-87.63,1
+Cincinnati,4,0,C4,39.1,-84.512,1
+Clearwater,4,0,C4,27.966,-82.8,1
+Cleveland,3,1,C3,41.499,-81.694,1
+Columbia,3,0,C3,34.0,-81.035,1
+Columbus,2,0,C2,39.961,-82.999,1
+Corpus Christi,1,1,C1,27.8,-97.396,1
+Dallas,1,0,C1,32.777,-96.797,1
+Denver,5,0,No composite heatwave,39.739,-104.99,0
+Detroit,1,1,C1,42.331,-83.046,1
+Fort Worth,1,0,C1,32.755,-97.331,1
+Fresno,1,0,C1,36.737,-119.787,1
+Gilbert,4,0,C4,33.352,-111.789,1
+Henderson,2,0,C2,36.04,-114.982,1
+Hollywood,5,0,No composite heatwave,26.011,-80.149,0
+Houston,1,0,C1,29.76,-95.37,1
+Indianapolis,4,0,C4,39.768,-86.158,1
+Jacksonville,4,0,C4,30.332,-81.656,1
+Kansas City,3,0,C3,39.1,-94.578,1
+Las Vegas,4,0,C4,36.169,-115.14,1
+Long Beach,5,0,No composite heatwave,33.77,-118.194,0
+Los Angeles,2,0,C2,34.052,-118.244,1
+Louisville,4,0,C4,38.253,-85.759,1
+Lubbock,4,0,C4,33.577,-101.855,1
+Mesa,1,0,C1,33.415,-111.832,1
+Miami,1,1,C1,25.762,-80.192,1
+Milwaukee,4,0,C4,43.039,-87.907,1
+Minneapolis,2,0,C2,44.977,-93.265,1
+Miramar,4,0,C4,25.988,-80.235,1
+Nashville,4,0,C4,36.163,-86.781,1
+New York,1,0,C1,40.713,-74.006,1
+Newark,2,1,C2,40.736,-74.172,1
+Oakland,5,0,No composite heatwave,37.805,-122.271,0
+Oklahoma City,1,0,C1,35.468,-97.516,1
+Orlando,3,0,C3,28.538,-81.379,1
+Overland Park,3,0,C3,38.982,-94.671,1
+Palm Bay,4,0,C4,28.034,-80.588,1
+Philadelphia,2,0,C2,39.953,-75.164,1
+Phoenix,1,0,C1,33.449,-112.074,1
+Pittsburgh,5,0,No composite heatwave,40.441,-79.995,0
+Portland,5,0,No composite heatwave,45.523,-122.676,0
+Raleigh,3,0,C3,35.78,-78.639,1
+Richmond,4,0,C4,37.541,-77.434,1
+Riverside,4,0,C4,33.953,-117.396,1
+Sacramento,2,0,C2,38.582,-121.494,1
+Salt Lake City,5,0,No composite heatwave,40.76,-111.891,0
+San Antonio,2,0,C2,29.424,-98.494,1
+San Bernardino,2,0,C2,34.108,-117.289,1
+San Diego,5,0,No composite heatwave,32.716,-117.161,0
+San Francisco,5,0,No composite heatwave,37.775,-122.419,0
+San Jose,2,0,C2,37.339,-121.895,1
+Santa Ana,5,0,No composite heatwave,33.746,-117.868,0
+Scottsdale,4,0,C4,33.494,-111.926,1
+Seattle,5,0,No composite heatwave,47.606,-122.332,0
+St. Louis,3,0,C3,38.627,-90.199,1
+St. Petersburg,3,0,C3,27.771,-82.638,1
+Tallahassee,4,0,C4,30.438,-84.281,1
+Tampa,3,0,C3,27.951,-82.457,1
+Tucson,1,0,C1,32.222,-110.975,1
+Virginia Beach,1,0,C1,36.853,-75.978,1
+Visalia,1,0,C1,36.33,-119.292,1
+Washington,2,0,C2,38.907,-77.037,1

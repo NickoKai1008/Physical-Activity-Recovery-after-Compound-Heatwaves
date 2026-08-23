@@ -1,0 +1,76 @@
+City,Group,Strong days,Overall days,Duration band,Group median strong,Group mean strong,Group median overall,Group mean overall,DLNM_lag_days_main,DLNM_lag_days_strong_sensitivity,DLNM_lag_days_7d_control,Main_lag_definition,Control_lag_definition
+Abilene,2,12,12,Persistent through 12d,12.0,12.0,12.0,12.0,12,12,7,cluster-level LOWESS FDR05 duration,fixed 7-day lag window for estimable heatwave groups
+Amarillo,4,12,12,Persistent through 12d,12.0,12.0,12.0,12.0,12,12,7,cluster-level LOWESS FDR05 duration,fixed 7-day lag window for estimable heatwave groups
+Arlington,1,12,12,Persistent through 12d,12.0,12.0,12.0,12.0,12,12,7,cluster-level LOWESS FDR05 duration,fixed 7-day lag window for estimable heatwave groups
+Atlanta,3,6,8,Attenuates ~6d strong / ~8d overall,6.0,6.0,8.0,8.0,8,6,7,cluster-level LOWESS FDR05 duration,fixed 7-day lag window for estimable heatwave groups
+Aurora,5,0,0,No composite heatwave,0.0,0.0,0.0,0.0,0,0,0,cluster-level LOWESS FDR05 duration,fixed 7-day lag window for estimable heatwave groups
+Austin,2,12,12,Persistent through 12d,12.0,12.0,12.0,12.0,12,12,7,cluster-level LOWESS FDR05 duration,fixed 7-day lag window for estimable heatwave groups
+Bakersfield,1,12,12,Persistent through 12d,12.0,12.0,12.0,12.0,12,12,7,cluster-level LOWESS FDR05 duration,fixed 7-day lag window for estimable heatwave groups
+Baltimore,1,12,12,Persistent through 12d,12.0,12.0,12.0,12.0,12,12,7,cluster-level LOWESS FDR05 duration,fixed 7-day lag window for estimable heatwave groups
+Boston,2,12,12,Persistent through 12d,12.0,12.0,12.0,12.0,12,12,7,cluster-level LOWESS FDR05 duration,fixed 7-day lag window for estimable heatwave groups
+Cape Coral,4,12,12,Persistent through 12d,12.0,12.0,12.0,12.0,12,12,7,cluster-level LOWESS FDR05 duration,fixed 7-day lag window for estimable heatwave groups
+Chandler,1,12,12,Persistent through 12d,12.0,12.0,12.0,12.0,12,12,7,cluster-level LOWESS FDR05 duration,fixed 7-day lag window for estimable heatwave groups
+Charleston,3,6,8,Attenuates ~6d strong / ~8d overall,6.0,6.0,8.0,8.0,8,6,7,cluster-level LOWESS FDR05 duration,fixed 7-day lag window for estimable heatwave groups
+Charlotte,4,12,12,Persistent through 12d,12.0,12.0,12.0,12.0,12,12,7,cluster-level LOWESS FDR05 duration,fixed 7-day lag window for estimable heatwave groups
+Chicago,4,12,12,Persistent through 12d,12.0,12.0,12.0,12.0,12,12,7,cluster-level LOWESS FDR05 duration,fixed 7-day lag window for estimable heatwave groups
+Cincinnati,4,12,12,Persistent through 12d,12.0,12.0,12.0,12.0,12,12,7,cluster-level LOWESS FDR05 duration,fixed 7-day lag window for estimable heatwave groups
+Clearwater,4,12,12,Persistent through 12d,12.0,12.0,12.0,12.0,12,12,7,cluster-level LOWESS FDR05 duration,fixed 7-day lag window for estimable heatwave groups
+Cleveland,3,6,8,Attenuates ~6d strong / ~8d overall,6.0,6.0,8.0,8.0,8,6,7,cluster-level LOWESS FDR05 duration,fixed 7-day lag window for estimable heatwave groups
+Columbia,3,6,8,Attenuates ~6d strong / ~8d overall,6.0,6.0,8.0,8.0,8,6,7,cluster-level LOWESS FDR05 duration,fixed 7-day lag window for estimable heatwave groups
+Columbus,2,12,12,Persistent through 12d,12.0,12.0,12.0,12.0,12,12,7,cluster-level LOWESS FDR05 duration,fixed 7-day lag window for estimable heatwave groups
+Corpus Christi,1,12,12,Persistent through 12d,12.0,12.0,12.0,12.0,12,12,7,cluster-level LOWESS FDR05 duration,fixed 7-day lag window for estimable heatwave groups
+Dallas,1,12,12,Persistent through 12d,12.0,12.0,12.0,12.0,12,12,7,cluster-level LOWESS FDR05 duration,fixed 7-day lag window for estimable heatwave groups
+Denver,5,0,0,No composite heatwave,0.0,0.0,0.0,0.0,0,0,0,cluster-level LOWESS FDR05 duration,fixed 7-day lag window for estimable heatwave groups
+Detroit,1,12,12,Persistent through 12d,12.0,12.0,12.0,12.0,12,12,7,cluster-level LOWESS FDR05 duration,fixed 7-day lag window for estimable heatwave groups
+Fort Worth,1,12,12,Persistent through 12d,12.0,12.0,12.0,12.0,12,12,7,cluster-level LOWESS FDR05 duration,fixed 7-day lag window for estimable heatwave groups
+Fresno,1,12,12,Persistent through 12d,12.0,12.0,12.0,12.0,12,12,7,cluster-level LOWESS FDR05 duration,fixed 7-day lag window for estimable heatwave groups
+Gilbert,4,12,12,Persistent through 12d,12.0,12.0,12.0,12.0,12,12,7,cluster-level LOWESS FDR05 duration,fixed 7-day lag window for estimable heatwave groups
+Henderson,2,12,12,Persistent through 12d,12.0,12.0,12.0,12.0,12,12,7,cluster-level LOWESS FDR05 duration,fixed 7-day lag window for estimable heatwave groups
+Hollywood,5,0,0,No composite heatwave,0.0,0.0,0.0,0.0,0,0,0,cluster-level LOWESS FDR05 duration,fixed 7-day lag window for estimable heatwave groups
+Houston,1,12,12,Persistent through 12d,12.0,12.0,12.0,12.0,12,12,7,cluster-level LOWESS FDR05 duration,fixed 7-day lag window for estimable heatwave groups
+Indianapolis,4,12,12,Persistent through 12d,12.0,12.0,12.0,12.0,12,12,7,cluster-level LOWESS FDR05 duration,fixed 7-day lag window for estimable heatwave groups
+Jacksonville,4,12,12,Persistent through 12d,12.0,12.0,12.0,12.0,12,12,7,cluster-level LOWESS FDR05 duration,fixed 7-day lag window for estimable heatwave groups
+Kansas City,3,6,8,Attenuates ~6d strong / ~8d overall,6.0,6.0,8.0,8.0,8,6,7,cluster-level LOWESS FDR05 duration,fixed 7-day lag window for estimable heatwave groups
+Las Vegas,4,12,12,Persistent through 12d,12.0,12.0,12.0,12.0,12,12,7,cluster-level LOWESS FDR05 duration,fixed 7-day lag window for estimable heatwave groups
+Long Beach,5,0,0,No composite heatwave,0.0,0.0,0.0,0.0,0,0,0,cluster-level LOWESS FDR05 duration,fixed 7-day lag window for estimable heatwave groups
+Los Angeles,2,12,12,Persistent through 12d,12.0,12.0,12.0,12.0,12,12,7,cluster-level LOWESS FDR05 duration,fixed 7-day lag window for estimable heatwave groups
+Louisville,4,12,12,Persistent through 12d,12.0,12.0,12.0,12.0,12,12,7,cluster-level LOWESS FDR05 duration,fixed 7-day lag window for estimable heatwave groups
+Lubbock,4,12,12,Persistent through 12d,12.0,12.0,12.0,12.0,12,12,7,cluster-level LOWESS FDR05 duration,fixed 7-day lag window for estimable heatwave groups
+Mesa,1,12,12,Persistent through 12d,12.0,12.0,12.0,12.0,12,12,7,cluster-level LOWESS FDR05 duration,fixed 7-day lag window for estimable heatwave groups
+Miami,1,12,12,Persistent through 12d,12.0,12.0,12.0,12.0,12,12,7,cluster-level LOWESS FDR05 duration,fixed 7-day lag window for estimable heatwave groups
+Milwaukee,4,12,12,Persistent through 12d,12.0,12.0,12.0,12.0,12,12,7,cluster-level LOWESS FDR05 duration,fixed 7-day lag window for estimable heatwave groups
+Minneapolis,2,12,12,Persistent through 12d,12.0,12.0,12.0,12.0,12,12,7,cluster-level LOWESS FDR05 duration,fixed 7-day lag window for estimable heatwave groups
+Miramar,4,12,12,Persistent through 12d,12.0,12.0,12.0,12.0,12,12,7,cluster-level LOWESS FDR05 duration,fixed 7-day lag window for estimable heatwave groups
+Nashville,4,12,12,Persistent through 12d,12.0,12.0,12.0,12.0,12,12,7,cluster-level LOWESS FDR05 duration,fixed 7-day lag window for estimable heatwave groups
+New York,1,12,12,Persistent through 12d,12.0,12.0,12.0,12.0,12,12,7,cluster-level LOWESS FDR05 duration,fixed 7-day lag window for estimable heatwave groups
+Newark,2,12,12,Persistent through 12d,12.0,12.0,12.0,12.0,12,12,7,cluster-level LOWESS FDR05 duration,fixed 7-day lag window for estimable heatwave groups
+Oakland,5,0,0,No composite heatwave,0.0,0.0,0.0,0.0,0,0,0,cluster-level LOWESS FDR05 duration,fixed 7-day lag window for estimable heatwave groups
+Oklahoma City,1,12,12,Persistent through 12d,12.0,12.0,12.0,12.0,12,12,7,cluster-level LOWESS FDR05 duration,fixed 7-day lag window for estimable heatwave groups
+Orlando,3,6,8,Attenuates ~6d strong / ~8d overall,6.0,6.0,8.0,8.0,8,6,7,cluster-level LOWESS FDR05 duration,fixed 7-day lag window for estimable heatwave groups
+Overland Park,3,6,8,Attenuates ~6d strong / ~8d overall,6.0,6.0,8.0,8.0,8,6,7,cluster-level LOWESS FDR05 duration,fixed 7-day lag window for estimable heatwave groups
+Palm Bay,4,12,12,Persistent through 12d,12.0,12.0,12.0,12.0,12,12,7,cluster-level LOWESS FDR05 duration,fixed 7-day lag window for estimable heatwave groups
+Philadelphia,2,12,12,Persistent through 12d,12.0,12.0,12.0,12.0,12,12,7,cluster-level LOWESS FDR05 duration,fixed 7-day lag window for estimable heatwave groups
+Phoenix,1,12,12,Persistent through 12d,12.0,12.0,12.0,12.0,12,12,7,cluster-level LOWESS FDR05 duration,fixed 7-day lag window for estimable heatwave groups
+Pittsburgh,5,0,0,No composite heatwave,0.0,0.0,0.0,0.0,0,0,0,cluster-level LOWESS FDR05 duration,fixed 7-day lag window for estimable heatwave groups
+Portland,5,0,0,No composite heatwave,0.0,0.0,0.0,0.0,0,0,0,cluster-level LOWESS FDR05 duration,fixed 7-day lag window for estimable heatwave groups
+Raleigh,3,6,8,Attenuates ~6d strong / ~8d overall,6.0,6.0,8.0,8.0,8,6,7,cluster-level LOWESS FDR05 duration,fixed 7-day lag window for estimable heatwave groups
+Richmond,4,12,12,Persistent through 12d,12.0,12.0,12.0,12.0,12,12,7,cluster-level LOWESS FDR05 duration,fixed 7-day lag window for estimable heatwave groups
+Riverside,4,12,12,Persistent through 12d,12.0,12.0,12.0,12.0,12,12,7,cluster-level LOWESS FDR05 duration,fixed 7-day lag window for estimable heatwave groups
+Sacramento,2,12,12,Persistent through 12d,12.0,12.0,12.0,12.0,12,12,7,cluster-level LOWESS FDR05 duration,fixed 7-day lag window for estimable heatwave groups
+Salt Lake City,5,0,0,No composite heatwave,0.0,0.0,0.0,0.0,0,0,0,cluster-level LOWESS FDR05 duration,fixed 7-day lag window for estimable heatwave groups
+San Antonio,2,12,12,Persistent through 12d,12.0,12.0,12.0,12.0,12,12,7,cluster-level LOWESS FDR05 duration,fixed 7-day lag window for estimable heatwave groups
+San Bernardino,2,12,12,Persistent through 12d,12.0,12.0,12.0,12.0,12,12,7,cluster-level LOWESS FDR05 duration,fixed 7-day lag window for estimable heatwave groups
+San Diego,5,0,0,No composite heatwave,0.0,0.0,0.0,0.0,0,0,0,cluster-level LOWESS FDR05 duration,fixed 7-day lag window for estimable heatwave groups
+San Francisco,5,0,0,No composite heatwave,0.0,0.0,0.0,0.0,0,0,0,cluster-level LOWESS FDR05 duration,fixed 7-day lag window for estimable heatwave groups
+San Jose,2,12,12,Persistent through 12d,12.0,12.0,12.0,12.0,12,12,7,cluster-level LOWESS FDR05 duration,fixed 7-day lag window for estimable heatwave groups
+Santa Ana,5,0,0,No composite heatwave,0.0,0.0,0.0,0.0,0,0,0,cluster-level LOWESS FDR05 duration,fixed 7-day lag window for estimable heatwave groups
+Scottsdale,4,12,12,Persistent through 12d,12.0,12.0,12.0,12.0,12,12,7,cluster-level LOWESS FDR05 duration,fixed 7-day lag window for estimable heatwave groups
+Seattle,5,0,0,No composite heatwave,0.0,0.0,0.0,0.0,0,0,0,cluster-level LOWESS FDR05 duration,fixed 7-day lag window for estimable heatwave groups
+St. Louis,3,6,8,Attenuates ~6d strong / ~8d overall,6.0,6.0,8.0,8.0,8,6,7,cluster-level LOWESS FDR05 duration,fixed 7-day lag window for estimable heatwave groups
+St. Petersburg,3,6,8,Attenuates ~6d strong / ~8d overall,6.0,6.0,8.0,8.0,8,6,7,cluster-level LOWESS FDR05 duration,fixed 7-day lag window for estimable heatwave groups
+Tallahassee,4,12,12,Persistent through 12d,12.0,12.0,12.0,12.0,12,12,7,cluster-level LOWESS FDR05 duration,fixed 7-day lag window for estimable heatwave groups
+Tampa,3,6,8,Attenuates ~6d strong / ~8d overall,6.0,6.0,8.0,8.0,8,6,7,cluster-level LOWESS FDR05 duration,fixed 7-day lag window for estimable heatwave groups
+Tucson,1,12,12,Persistent through 12d,12.0,12.0,12.0,12.0,12,12,7,cluster-level LOWESS FDR05 duration,fixed 7-day lag window for estimable heatwave groups
+Virginia Beach,1,12,12,Persistent through 12d,12.0,12.0,12.0,12.0,12,12,7,cluster-level LOWESS FDR05 duration,fixed 7-day lag window for estimable heatwave groups
+Visalia,1,12,12,Persistent through 12d,12.0,12.0,12.0,12.0,12,12,7,cluster-level LOWESS FDR05 duration,fixed 7-day lag window for estimable heatwave groups
+Washington,2,12,12,Persistent through 12d,12.0,12.0,12.0,12.0,12,12,7,cluster-level LOWESS FDR05 duration,fixed 7-day lag window for estimable heatwave groups

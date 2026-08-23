@@ -1,0 +1,9 @@
+cluster,n_total_cities,n_core_cities,endpoint,estimate_days,bootstrap_low,bootstrap_median,bootstrap_high,persistent_at_day12_fraction,group_mean_strong,group_median_strong,group_mean_overall,group_median_overall,main_lag_days,strong_sensitivity_days,fixed_7day_control
+1,18,15,strong,12,9.861482330028997,12.0,12.0,0.598,12.0,12.0,12.0,12.0,12,12,7
+1,18,15,overall,12,11.31693875364206,12.0,12.0,0.852,12.0,12.0,12.0,12.0,12,12,7
+2,14,13,strong,12,3.7923241642006738,12.0,12.0,0.826,12.0,12.0,12.0,12.0,12,12,7
+2,14,13,overall,12,10.56266618932281,12.0,12.0,0.924,12.0,12.0,12.0,12.0,12,12,7
+3,11,10,strong,6,2.163400112467654,12.0,12.0,0.562,6.0,6.0,8.0,8.0,8,6,7
+3,11,10,overall,8,4.726931074372747,12.0,12.0,0.766,6.0,6.0,8.0,8.0,8,6,7
+4,20,20,strong,12,9.526607725513403,12.0,12.0,0.876,12.0,12.0,12.0,12.0,12,12,7
+4,20,20,overall,12,10.485236524122998,12.0,12.0,0.92,12.0,12.0,12.0,12.0,12,12,7

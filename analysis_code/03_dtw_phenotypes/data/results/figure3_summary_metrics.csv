@@ -1,0 +1,6 @@
+cluster,n,n_outliers,tag,silhouette,mean_corr_to_centroid,rmse_to_centroid,group
+1,18,3,includes 3 outlier(s),0.2986,0.5524,2.9071,C1
+2,14,1,includes 1 outlier(s),0.0574,0.1854,1.9922,C2
+3,11,1,includes 1 outlier(s),0.2909,0.4207,3.3251,C3
+4,20,0,,0.0683,0.3259,1.1894,C4
+5,12,0,Outside PPML estimable subset,,,,No composite heatwave

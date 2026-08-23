@@ -1,0 +1,6 @@
+Group,n_meta_cities_core,Strong days,Overall days,Duration band,FDR001_cross,FDR01_cross,FDR05_cross,raw_FDR05_significant_lags
+1,15,12,12,Persistent through 12d,,,,12
+2,13,12,12,Persistent through 12d,,,,12
+3,10,6,8,Attenuates ~6d strong / ~8d overall,5.95,6.88,7.93,9
+4,20,12,12,Persistent through 12d,,,,10
+5,0,0,0,No composite heatwave,,,,0
