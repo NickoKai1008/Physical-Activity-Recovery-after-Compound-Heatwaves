@@ -1,17 +1,12 @@
-
 """
 This script implements the heatwave definitions used in the manuscript:
 
-* A grid- and year-specific threshold is the 95th percentile of all valid
-  observations from 1985 through the year preceding the target year.
+* A grid- and year-specific threshold is the 95th percentile of all valid observations from 1985 through the year preceding the target year.
 * The target year is excluded from its own threshold calculation.
-* Tmax and Tmin thresholds are calculated separately and bounded below at
-  24 degrees Celsius.
-* A daytime heatwave (DHW), nighttime heatwave (NHW), or compound heatwave
-  (CHW) requires at least three consecutive days of the corresponding
-  mutually exclusive daily condition.
-* Daily exceeded quantity (EQ) and cumulative excess heatwave index (CEHWI)
-  follow the equations reported in the manuscript.
+* Tmax and Tmin thresholds are calculated separately and bounded below at 24 degrees Celsius.
+* A daytime heatwave (DHW), nighttime heatwave (NHW), or compound heatwave (CHW) requires at least three consecutive days of the corresponding mutually exclusive daily condition.
+* Daily exceeded quantity (EQ) and cumulative excess heatwave index (CEHWI) follow the equations reported in the manuscript.
+
 """
 
 from __future__ import annotations
@@ -251,13 +246,12 @@ def identify_heatwaves(
 ) -> pd.DataFrame:
     """Classify mutually exclusive events and calculate EQ and CEHWI.
 
-    Tmax and Tmin exceedance runs are qualified independently. Overlap between
-    the two qualified series is then converted to CHW, even when the overlap
-    lasts for only one day. The final DHW, NHW and CHW indicators are mutually
-    exclusive.
+    Tmax and Tmin exceedance runs are qualified independently. 
+    Overlap between the two qualified series is then converted to CHW.
+    The final DHW, NHW and CHW indicators are mutually exclusive.
     """
     if minimum_duration < 1:
-        raise ValueError("minimum_duration must be at least 1 day.")
+        raise ValueError("minimum_duration")
 
     required = {
         "Tmax_C",
