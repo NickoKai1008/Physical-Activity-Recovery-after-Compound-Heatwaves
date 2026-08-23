@@ -115,7 +115,7 @@ OUTLIER_HANDLING = "assign_nearest"  # {"assign_nearest", "separate", "winsorise
 # ═══════════════════════════════════════════════════════════════════════════════
 # 1. DATA
 # ═══════════════════════════════════════════════════════════════════════════════
-input_path = Path(os.environ.get("DTW_INPUT", MODULE_DIR.parents[1] / "analysis" / "02_ppml_post_event" / "data" / "city_lag_estimates_12day.csv"))
+input_path = Path(os.environ.get("DTW_INPUT", MODULE_DIR.parents[1] / "analysis_code" / "02_ppml_post_event" / "data" / "city_lag_estimates_12day.csv"))
 df = pd.read_csv(input_path).dropna(subset=["estimate"])
 kc = df[df["city"] == "Kansas City"]
 if kc["n_obs"].nunique() > 1:
