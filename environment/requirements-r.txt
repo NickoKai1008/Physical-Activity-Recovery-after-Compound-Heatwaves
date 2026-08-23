@@ -9,6 +9,7 @@ janitor
 lubridate
 MASS
 mgcv
+metafor
 mvmeta
 patchwork
 purrr
