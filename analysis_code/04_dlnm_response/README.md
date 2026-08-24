@@ -15,7 +15,7 @@ Rscript analysis_code/04_dlnm_response/code/pool_city_specific_p50_p90_curves_po
 
 The primary model entry uses the 2010-2024 period, All + Cycling + Running + Walking outcomes and the phenotype-specific group-median lag assignment (C3: lag 0-7; C1/C2/C4: lag 0-11). The synthesis entry audits the 189 city/type fits, reconstructs each curve in its native p50/p90 basis and applies pointwise random-effects REML pooling.
 
-Primary pointwise 95% confidence intervals are the normal-theory REML intervals; AF limits are the monotonic transformation of the log-RR limits. The common-basis sensitivity uses 5,000 multivariate-normal coefficient draws.
+Primary pointwise 95% confidence intervals are the normal-theory REML intervals; AF limits are the monotonic transformation of the log-RR limits. The common-basis sensitivity uses 500 multivariate-normal coefficient draws.
 
 ## Retained core calculations
 
