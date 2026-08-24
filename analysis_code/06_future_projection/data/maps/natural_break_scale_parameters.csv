@@ -1,0 +1,13 @@
+﻿indicator,heatwave_type,map_type,vmin,vmax,breaks,point_min,point_max,output
+cehwi,composite,absolute_natural_breaks,0.0,0.9332990792072026,0.000;0.10;0.22;0.34;0.48;0.64;0.81;0.93,20,245,EXTERNAL_DEVELOPMENT_ARCHIVE/dlnm/model_objects/fig6abc_cehwi_composite_absolute_natural_breaks
+cehwi,composite,delta_vs_ssp245,-0.17557190527427113,0.17557190527427113,,20,245,EXTERNAL_DEVELOPMENT_ARCHIVE/dlnm/model_objects/fig6abc_cehwi_composite_delta_vs_ssp245
+cehwi,day,absolute_natural_breaks,0.0,0.6379955193470924,0.000;0.10;0.17;0.24;0.32;0.40;0.51;0.64,20,245,EXTERNAL_DEVELOPMENT_ARCHIVE/dlnm/model_objects/fig6abc_cehwi_day_absolute_natural_breaks
+cehwi,day,delta_vs_ssp245,-0.14590806353533536,0.14590806353533536,,20,245,EXTERNAL_DEVELOPMENT_ARCHIVE/dlnm/model_objects/fig6abc_cehwi_day_delta_vs_ssp245
+cehwi,night,absolute_natural_breaks,0.0,0.01,0.000;0.001;0.003;0.004;0.006;0.007;0.009;0.01,20,245,EXTERNAL_DEVELOPMENT_ARCHIVE/dlnm/model_objects/fig6abc_cehwi_night_absolute_natural_breaks
+cehwi,night,delta_vs_ssp245,-7.841216495463646e-07,7.841216495463646e-07,,20,245,EXTERNAL_DEVELOPMENT_ARCHIVE/dlnm/model_objects/fig6abc_cehwi_night_delta_vs_ssp245
+exceeded_quantity,composite,absolute_natural_breaks,0.0,0.7109468766795726,0.000;0.06;0.15;0.24;0.34;0.45;0.58;0.71,20,245,EXTERNAL_DEVELOPMENT_ARCHIVE/dlnm/model_objects/fig6abc_exceeded_quantity_composite_absolute_natural_breaks
+exceeded_quantity,composite,delta_vs_ssp245,-0.14876290505282064,0.14876290505282064,,20,245,EXTERNAL_DEVELOPMENT_ARCHIVE/dlnm/model_objects/fig6abc_exceeded_quantity_composite_delta_vs_ssp245
+exceeded_quantity,day,absolute_natural_breaks,0.0,0.7778413141037646,0.000;0.17;0.25;0.34;0.44;0.53;0.63;0.78,20,245,EXTERNAL_DEVELOPMENT_ARCHIVE/dlnm/model_objects/fig6abc_exceeded_quantity_day_absolute_natural_breaks
+exceeded_quantity,day,delta_vs_ssp245,-0.19615650430102982,0.19615650430102982,,20,245,EXTERNAL_DEVELOPMENT_ARCHIVE/dlnm/model_objects/fig6abc_exceeded_quantity_day_delta_vs_ssp245
+exceeded_quantity,night,absolute_natural_breaks,0.0,0.06774460714647,0.000;0.005;0.02;0.03;0.04;0.05;0.06;0.07,20,245,EXTERNAL_DEVELOPMENT_ARCHIVE/dlnm/model_objects/fig6abc_exceeded_quantity_night_absolute_natural_breaks
+exceeded_quantity,night,delta_vs_ssp245,-0.017304605414637103,0.017304605414637103,,20,245,EXTERNAL_DEVELOPMENT_ARCHIVE/dlnm/model_objects/fig6abc_exceeded_quantity_night_delta_vs_ssp245
