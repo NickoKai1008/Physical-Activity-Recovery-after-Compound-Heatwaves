@@ -1,0 +1,23 @@
+R version 4.5.2 (2025-10-31 ucrt)
+Platform: x86_64-w64-mingw32/x64
+Running under: Windows 10 x64 (build 19045)
+
+Matrix products: default
+  LAPACK version 3.12.1
+
+locale:
+[1] C
+system code page: 65001
+
+time zone: Asia/Shanghai
+tzcode source: internal
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+[1] mvmeta_1.0.3 dlnm_2.4.10 
+
+loaded via a namespace (and not attached):
+[1] compiler_4.5.2 Matrix_1.7-4   mgcv_1.9-3     splines_4.5.2  mixmeta_1.2.2 
+[6] nlme_3.1-168   grid_4.5.2     tsModel_0.6-2  lattice_0.22-7

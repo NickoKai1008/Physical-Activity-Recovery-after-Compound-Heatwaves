@@ -1,0 +1,5 @@
+﻿"file","role","rows","bytes","sha256"
+"city_native_basis_definitions.csv","sensitivity input","252","33904","a70810e81af2785ae565877c83abd8116d589ed6aaff97474756be99d199afbe"
+"city_native_reduced_coefficients.csv","sensitivity input","756","55258","b1bc8b2232425e31d256cefdb7ae4ef957e124074bf0ec12866a9364c9845790"
+"city_native_reduced_covariances.csv","sensitivity input","2268","132299","13ed3a10fdb6a5878feefd10c880ec01688ab9b8460903e803a0e047b1a8a7d2"
+"grid_row_environment_predictors.csv","sensitivity input","976","250672","9de1bc92fe6c6882d887920ca4001ebee9838efdaebdd3c467329cd0e3cd44ed"

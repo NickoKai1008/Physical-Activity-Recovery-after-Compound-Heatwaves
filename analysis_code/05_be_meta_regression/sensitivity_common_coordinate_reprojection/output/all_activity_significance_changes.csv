@@ -1,0 +1,7 @@
+"metric","predictor","variable_only","joint_p_native","significant_0_05_native","joint_p_common","significant_0_05_common","significance_changed"
+"gini","GDP","GDP",0.0102423899765282,TRUE,0.134954600276936,FALSE,TRUE
+"gini","NDVI_2023","NDVI",0.118826945877787,FALSE,0.00531917199697635,TRUE,TRUE
+"gini","Street_Intersection_Density","Street Intersection Density",0.714969625304251,FALSE,0.0102087181120991,TRUE,TRUE
+"gini","Walkability_Index","Walkability Index",0.207538151843476,FALSE,0.00206302539906057,TRUE,TRUE
+"mean","Street_Intersection_Density","Street Intersection Density",0.063210834729483,FALSE,0.000675018569932649,TRUE,TRUE
+"mean","Walkability_Index","Walkability Index",0.251309024504557,FALSE,8.32965355665032e-08,TRUE,TRUE
