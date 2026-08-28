@@ -1,0 +1,76 @@
+city,city_order,model_available,status
+Abilene,1,True,12 lag estimates available
+Amarillo,2,True,12 lag estimates available
+Arlington,3,True,12 lag estimates available
+Atlanta,4,True,12 lag estimates available
+Aurora,5,False,No composite heatwave
+Austin,6,True,12 lag estimates available
+Bakersfield,7,True,12 lag estimates available
+Baltimore,8,True,12 lag estimates available
+Boston,9,True,12 lag estimates available
+Cape Coral,10,True,12 lag estimates available
+Chandler,11,True,12 lag estimates available
+Charleston,12,True,12 lag estimates available
+Charlotte,13,True,12 lag estimates available
+Chicago,14,True,12 lag estimates available
+Cincinnati,15,True,12 lag estimates available
+Clearwater,16,True,12 lag estimates available
+Cleveland,17,True,12 lag estimates available
+Columbia,18,True,12 lag estimates available
+Columbus,19,True,12 lag estimates available
+Corpus Christi,20,True,12 lag estimates available
+Dallas,21,True,12 lag estimates available
+Denver,22,False,No composite heatwave
+Detroit,23,True,12 lag estimates available
+Fort Worth,24,True,12 lag estimates available
+Fresno,25,True,12 lag estimates available
+Gilbert,26,True,12 lag estimates available
+Henderson,27,True,12 lag estimates available
+Hollywood,28,False,No composite heatwave
+Houston,29,True,12 lag estimates available
+Indianapolis,30,True,12 lag estimates available
+Jacksonville,31,True,12 lag estimates available
+Kansas City,32,True,12 lag estimates available
+Las Vegas,33,True,12 lag estimates available
+Long Beach,34,False,No composite heatwave
+Los Angeles,35,True,12 lag estimates available
+Louisville,36,True,12 lag estimates available
+Lubbock,37,True,12 lag estimates available
+Mesa,38,True,12 lag estimates available
+Miami,39,True,12 lag estimates available
+Milwaukee,40,True,12 lag estimates available
+Minneapolis,41,True,12 lag estimates available
+Miramar,42,True,12 lag estimates available
+Nashville,43,True,12 lag estimates available
+New York,44,True,12 lag estimates available
+Newark,45,True,12 lag estimates available
+Oakland,46,False,No composite heatwave
+Oklahoma City,47,True,12 lag estimates available
+Orlando,48,True,12 lag estimates available
+Overland Park,49,True,12 lag estimates available
+Palm Bay,50,True,12 lag estimates available
+Philadelphia,51,True,12 lag estimates available
+Phoenix,52,True,12 lag estimates available
+Pittsburgh,53,False,No composite heatwave
+Portland,54,False,No composite heatwave
+Raleigh,55,True,12 lag estimates available
+Richmond,56,True,12 lag estimates available
+Riverside,57,True,12 lag estimates available
+Sacramento,58,True,12 lag estimates available
+Salt Lake City,59,False,No composite heatwave
+San Antonio,60,True,12 lag estimates available
+San Bernardino,61,True,12 lag estimates available
+San Diego,62,False,No composite heatwave
+San Francisco,63,False,No composite heatwave
+San Jose,64,True,12 lag estimates available
+Santa Ana,65,False,No composite heatwave
+Scottsdale,66,True,12 lag estimates available
+Seattle,67,False,No composite heatwave
+St. Louis,68,True,12 lag estimates available
+St. Petersburg,69,True,12 lag estimates available
+Tallahassee,70,True,12 lag estimates available
+Tampa,71,True,12 lag estimates available
+Tucson,72,True,12 lag estimates available
+Virginia Beach,73,True,12 lag estimates available
+Visalia,74,True,12 lag estimates available
+Washington,75,True,12 lag estimates available
